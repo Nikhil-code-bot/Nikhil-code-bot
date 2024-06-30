@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Shinde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-frea" alt="nikhil-code-bot" />
+<img align="right" alt="Coding" width="400"  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-frea" alt="nikhil-code-bot" />
 
-<p align="left"> <img align="right" width="400" src="https://komarev.com/ghpvc/?username=nikhil-code-bot&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-code-bot" /> </p>
+<p align="left"> <img align="right" width="200" alt="nikhil-code-bot" src="https://komarev.com/ghpvc/?username=nikhil-code-bot&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 - 🔭 I’m currently working on **Release management dashboard using React.js and Material UI**
 
